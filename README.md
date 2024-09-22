@@ -21,8 +21,9 @@
 2. Enter the name of the movie in the search bar.
 3. Browse the results and click on a movie to see more details.
 
-![Screenshot 2024-09-22 190342](https://github.com/user-attachments/assets/305bd03a-e801-4574-8e82-73d86aad28f4)
-![Screenshot 2024-09-22 190405](https://github.com/user-attachments/assets/401bd4fd-73c4-4560-8656-19b929ae8c69)
+![Screenshot 2024-09-22 191425](https://github.com/user-attachments/assets/45467acf-f04c-4dc8-85b2-7f957908c1e6)
+<br><br>
+![Screenshot 2024-09-22 191343](https://github.com/user-attachments/assets/05a33d46-9fe1-4b22-a3e7-76cd05c2449d)
 
 
 ## Setup Instructions
