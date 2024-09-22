@@ -21,6 +21,10 @@
 2. Enter the name of the movie in the search bar.
 3. Browse the results and click on a movie to see more details.
 
+![Screenshot 2024-09-22 190342](https://github.com/user-attachments/assets/305bd03a-e801-4574-8e82-73d86aad28f4)
+![Screenshot 2024-09-22 190405](https://github.com/user-attachments/assets/401bd4fd-73c4-4560-8656-19b929ae8c69)
+
+
 ## Setup Instructions
 
 To run the project locally:
