@@ -15,8 +15,6 @@ export default function Footer() {
                   sourceLink={"https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_SX300.jpg"}></Card>
             <Card clsName={'card1'} imbdId={'tt8178634'} path={'/movie'}
                   sourceLink={"https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"}></Card>
-            <Card clsName={'card1'} imbdId={'tt6263850'} path={'/movie'}
-                  sourceLink={"https://m.media-amazon.com/images/M/MV5BZmQxZWM5MzgtY2EzZC00OGUxLWE0Y2EtMDIwOTFlNmQ5MWMyXkEyXkFqcGc@._V1_SX300.jpg"}></Card>
             <Card clsName={'card1'} imbdId={'tt16366836'} path={'/movie'}
                   sourceLink={"https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_SX300.jpg"}></Card>
             <Card clsName={'card1'} imbdId={'tt1877830'} path={'/movie'}
