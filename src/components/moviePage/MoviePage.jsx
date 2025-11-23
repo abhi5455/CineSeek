@@ -13,7 +13,7 @@ export default function MoviePage(){
             let choice = ['bgBatman', 'bgHulk', 'bgKungfuPanda', 'bgSpiderman', 'bgOnward_2', 'bgDeadpool', 'bgOnward'];
             let chosenRandomNum = JSON.parse(localStorage.getItem('chosenRandomNum'));
 
-            let chosenImage = choice[chosenRandomNum] + '.png';
+            let chosenImage = choice[chosenRandomNum] + '.webp';
             bgPoster.current.style.backgroundImage = `url(${chosenImage})`;
         }
         handleWindowRefresh();

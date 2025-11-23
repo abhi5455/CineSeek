@@ -14,7 +14,7 @@ function App() {
                 randomNumber = (randomNumber + 1) % 5;
             }
 
-            let chosenImage = choice[randomNumber] + '.png';
+            let chosenImage = choice[randomNumber] + '.webp';
             bgPoster.current.style.backgroundImage = `url(${chosenImage})`;
             localStorage.setItem('chosenRandomNum', randomNumber.toString());
             localStorage.setItem('searchValue',"");
